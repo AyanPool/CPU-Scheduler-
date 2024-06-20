@@ -11,5 +11,5 @@ Compile and Run:
 Compile the C++ files using a C++ compiler (e.g., g++) and execute the compiled program to observe simulation results for each scheduling algorithm.
 
 Acknowledgments:
---> Inspired by the study of operating system principles and the practical application of CPU scheduling algorithms.
---> Built with a passion for education and exploration in computer science.
+Inspired by the study of operating system principles and the practical application of CPU scheduling algorithms.
+Built with a passion for education and exploration in computer science.
